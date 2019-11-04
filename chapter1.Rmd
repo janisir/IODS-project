@@ -1,3 +1,5 @@
+Kurssista sain tiedon jatko-opintojen opetuskoordinaattorilta. Liityin kurssille, koska haluan oppia laajemmin eri tietojenkäsittely ohjelmista ja niiden mahdollisuuksista. Nyt alkuun kurssi vaikuttaa työläältä ja hankalalta, koska en omaa juurikaan aiempaa kokemusta R:n käytöstä. 
+https://github.com/janisir/IODS-project
 
 # About the project
 
